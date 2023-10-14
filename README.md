@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Lee%20Jiwon&fontSize=80&animation=twinkling&fontColor=ffffff&fontAlignY=40)
-![](https://gh-hits.nomadcoders.workers.dev/view?username=jiwon79)
-![Jiwon79's github stats](https://github-readme-stats.vercel.app/api?username=jiwon79&show_icons=true&hide_border=true&count_private=true)
+### Jiwon
+
+### Career
+- `2022/07 ~ 2023/08` : Bluesignum Coporation
+  - Moodee
+- `2023/09 ~ current`: Toss
+  - DEUS
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon79&hide=html,CSS&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
