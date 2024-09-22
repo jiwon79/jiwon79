@@ -1,15 +1,15 @@
 ## Jiwon Lee
 
 ### Career
-#### Sweep
+#### [Sweep](https://www.sweepingoms.com/)
 - Position: Engineer & Product Manager
 - Period: `2024/08 ~ current`
-#### Toss 
+#### [Toss](https://toss.im/)
 - **Position**: UX Enginner Assistant
 - **Period**: `2022/07 ~ 2023/08` (11month)
 - **Projects**
   - DEUS
-#### Bluesignum Coporation
+#### [Bluesignum Coporation](https://bluesignum2023.career.greetinghr.com/)
 - **Position**: Frontend Enginner
 - **Period**: `2022/07 ~ 2023/08` (1year 1month)
 - **Projects**
