@@ -6,12 +6,12 @@
 - Period: `2024/08 ~ current`
 #### [Toss](https://toss.im/)
 - **Position**: UX Enginner Assistant
-- **Period**: `2022/07 ~ 2023/08` (11month)
+- **Period**: `2023/08 ~ 2024/07 (11month)`
 - **Projects**
   - DEUS
 #### [Bluesignum Coporation](https://bluesignum2023.career.greetinghr.com/)
 - **Position**: Frontend Enginner
-- **Period**: `2022/07 ~ 2023/08` (1year 1month)
+- **Period**: `2022/07 ~ 2023/08 (1year 2month)`
 - **Projects**
   - Lighthouse(Mobile App)
   - Moodee(Mobile App)
