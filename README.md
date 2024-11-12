@@ -21,11 +21,6 @@
 - https://interactive-artwork.vercel.app/
 
 #### Figma Plugins
-- Dummy Date (2.5k users)
-  - https://www.figma.com/community/plugin/1329456254452207875/dummy-date
-- File Share (1.3k users)
-  - https://www.figma.com/community/widget/1343276857415140668/file-share
-- Sync Variable with Sheet (700 users)
-  - https://www.figma.com/community/plugin/1260648603325490772/sync-variable-with-sheet
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiwon79&hide=html,CSS&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+- Dummy Date (2.9k users, [link](https://www.figma.com/community/plugin/1329456254452207875/dummy-date))
+- File Share (1.4k users, [link](https://www.figma.com/community/widget/1343276857415140668/file-share))
+- Sync Variable with Sheet (700 users, [link](https://www.figma.com/community/plugin/1260648603325490772/sync-variable-with-sheet))
