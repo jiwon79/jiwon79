@@ -2,7 +2,7 @@
 
 ### Career
 #### [Sweep](https://www.sweepingoms.com/)
-- **Position**: Engineer
+- **Position**: Full Stack Engineer
 - **Period**: `2024/08 ~ current`
 - **Projects**
   - Sweep (Order management automation service)
@@ -11,7 +11,7 @@
 - **Position**: UX Enginner Assistant
 - **Period**: `2023/08 ~ 2024/07 (11month)`
 - **Projects**
-  - DEUS (Design Editor w/ React Coode Component)
+  - DEUS (DOM Based Design Web Editor w/ React Coode Component)
 
 #### [Bluesignum Coporation](https://bluesignum2023.career.greetinghr.com/)
 - **Position**: Frontend Enginner
@@ -29,6 +29,6 @@
 - 3D Ascii Interactive Model
 
 #### [Figma Plugins](https://www.figma.com/@jiiwon)
-- Dummy Date (3.0k users, [link](https://www.figma.com/community/plugin/1329456254452207875/dummy-date))
-- File Share (1.5k users, [link](https://www.figma.com/community/widget/1343276857415140668/file-share))
-- Sync Variable with Sheet (0.7k users, [link](https://www.figma.com/community/plugin/1260648603325490772/sync-variable-with-sheet))
+- Dummy Date (3.3k users, [link](https://www.figma.com/community/plugin/1329456254452207875/dummy-date))
+- File Share (1.6k users, [link](https://www.figma.com/community/widget/1343276857415140668/file-share))
+- Sync Variable with Sheet (0.8k users, [link](https://www.figma.com/community/plugin/1260648603325490772/sync-variable-with-sheet))
