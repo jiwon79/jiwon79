@@ -3,7 +3,7 @@
 ### Career
 #### [Sweep](https://www.sweepingoms.com/)
 - **Position**: Full Stack Engineer
-- **Period**: `2024/08 ~ current`
+- **Period**: `2024/08 ~ 2025/08`
 - **Projects**
   - Sweep (Order management automation service)
 
